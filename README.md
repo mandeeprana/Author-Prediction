@@ -1,4 +1,4 @@
-# Author-Prediction
+# Solving the Mystery!
 
 1. About the Federalist Papers
 Quote from the Library of Congress http://www.loc.gov/rr/program/bib/ourdocs/federalist.html
