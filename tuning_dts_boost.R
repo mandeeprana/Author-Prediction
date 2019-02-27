@@ -1,7 +1,3 @@
-#Name:Mandeep Rana
-#IST 707
-#HW 5
-
 rm(list=ls()) 
 #install.packages("C50")
 #install.packages("caret")
