@@ -1,7 +1,3 @@
-#Name:Mandeep Rana
-#IST 707
-#HW 4
-
 rm(list=ls()) 
 #install.packages("dplyr")
 #install.packages("stringr")
